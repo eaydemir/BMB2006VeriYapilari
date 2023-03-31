@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BagliListe", "BagliListe\Ba
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearch", "BinarySearch\BinarySearch.csproj", "{8648F138-2680-45FB-82E7-1CD9BDB9C501}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kuyruk", "Kuyruk\Kuyruk.csproj", "{43002816-0AAC-4593-88F4-48F338274152}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -32,6 +34,10 @@ Global
 		{8648F138-2680-45FB-82E7-1CD9BDB9C501}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8648F138-2680-45FB-82E7-1CD9BDB9C501}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8648F138-2680-45FB-82E7-1CD9BDB9C501}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43002816-0AAC-4593-88F4-48F338274152}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43002816-0AAC-4593-88F4-48F338274152}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43002816-0AAC-4593-88F4-48F338274152}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43002816-0AAC-4593-88F4-48F338274152}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
