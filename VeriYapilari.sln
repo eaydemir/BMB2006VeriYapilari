@@ -16,6 +16,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearch", "BinarySearc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kuyruk", "Kuyruk\Kuyruk.csproj", "{43002816-0AAC-4593-88F4-48F338274152}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTree", "BinaryTree\BinaryTree.csproj", "{1F904B25-DC9B-4D9B-BA85-AFF5BB157027}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AVLveBplusAgac", "AVLveBplusAgac\AVLveBplusAgac.csproj", "{D65B43AF-968D-4E86-893A-1C97446CB6F0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -38,6 +42,14 @@ Global
 		{43002816-0AAC-4593-88F4-48F338274152}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{43002816-0AAC-4593-88F4-48F338274152}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{43002816-0AAC-4593-88F4-48F338274152}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F904B25-DC9B-4D9B-BA85-AFF5BB157027}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F904B25-DC9B-4D9B-BA85-AFF5BB157027}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F904B25-DC9B-4D9B-BA85-AFF5BB157027}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F904B25-DC9B-4D9B-BA85-AFF5BB157027}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D65B43AF-968D-4E86-893A-1C97446CB6F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D65B43AF-968D-4E86-893A-1C97446CB6F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D65B43AF-968D-4E86-893A-1C97446CB6F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D65B43AF-968D-4E86-893A-1C97446CB6F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
