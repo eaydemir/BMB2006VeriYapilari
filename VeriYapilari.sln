@@ -20,6 +20,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTree", "BinaryTree\Bi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AVLveBplusAgac", "AVLveBplusAgac\AVLveBplusAgac.csproj", "{D65B43AF-968D-4E86-893A-1C97446CB6F0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashTable", "HashTable\HashTable.csproj", "{3778D160-BB22-42ED-B2C0-D4339C2B2B28}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -50,6 +52,10 @@ Global
 		{D65B43AF-968D-4E86-893A-1C97446CB6F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D65B43AF-968D-4E86-893A-1C97446CB6F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D65B43AF-968D-4E86-893A-1C97446CB6F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3778D160-BB22-42ED-B2C0-D4339C2B2B28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3778D160-BB22-42ED-B2C0-D4339C2B2B28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3778D160-BB22-42ED-B2C0-D4339C2B2B28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3778D160-BB22-42ED-B2C0-D4339C2B2B28}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
